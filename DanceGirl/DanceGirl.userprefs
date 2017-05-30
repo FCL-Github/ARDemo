@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SapphiArt\SapphiArtchan\Scripts\ChanTouchMove.cs">
+    <Files>
+      <File FileName="Assets\SapphiArt\SapphiArtchan\Scripts\SapphiArtChan_HeadMask.cs" Line="11" Column="2" />
+      <File FileName="Assets\SapphiArt\SapphiArtchan\Scripts\AnimationManagerUI.cs" Line="232" Column="2" />
+      <File FileName="Assets\SapphiArt\SapphiArtchan\Scripts\SapphiArtChan_AnimManager.cs" Line="217" Column="10" />
+      <File FileName="Assets\SapphiArt\SapphiArtchan\Scripts\ChanTouchMove.cs" Line="38" Column="124" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

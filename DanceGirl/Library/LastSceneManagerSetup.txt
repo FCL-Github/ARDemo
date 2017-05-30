@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/SapphiArt/SapphiArtchan/Scenes/SapphiArtChan.unity
+  isLoaded: 1
+  isActive: 1
